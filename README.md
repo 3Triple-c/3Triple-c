@@ -1,8 +1,8 @@
-👋 Hi Collins here/
-interested in Learning and Growth/
-I’m currently building for fun/
-💞️ looking to collaborate on team projects that focus on web development, where I can contribute my knowledge and enthusiasm while learning from others in a dynamic environment 🙂/
-reach me  @ collinchukss@gmail.com
+-👋 Hi Collins here/
+-interested in Learning and Growth/
+-I’m currently building for fun/
+-💞️ looking to collaborate on team projects that focus on web development, where I can contribute my knowledge and enthusiasm while learning from others in a dynamic environment 🙂/
+-reach me  @ collinchukss@gmail.com
 
 
 
