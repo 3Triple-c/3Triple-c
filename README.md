@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @3Triple-c.
-- 👀 I’m interested in Learning and Growth.
-- 🌱 I’m currently learning and practicing Javascript, React, and Node.js
-- 💞️ I’m looking to collaborate on team projects that focus on web development, where I can contribute my knowledge and enthusiasm while learning from others in a dynamic environment.
-- 📫 How to reach me collinchukss@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ?? 
+👋 Hi Collins here/
+interested in Learning and Growth/
+I’m currently building for fun/
+💞️ looking to collaborate on team projects that focus on web development, where I can contribute my knowledge and enthusiasm while learning from others in a dynamic environment 🙂/
+reach me  @ collinchukss@gmail.com
+
 
 
 <!---
